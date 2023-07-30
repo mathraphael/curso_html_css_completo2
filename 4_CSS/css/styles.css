@@ -9,3 +9,12 @@ h3{
     color: aqua;
     padding: 5px;
 }
+
+#titulo-exclusivo{
+    background-color: brown;
+    color: whitesmoke;
+    padding: 10px;
+    font-style: italic;
+    border-radius: 20px;
+    text-align: center;
+}
