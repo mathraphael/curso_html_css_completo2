@@ -3,3 +3,9 @@ h3{
     font-size: 10px;
     
 }
+
+.paragrafo{
+    background-color: black;
+    color: aqua;
+    padding: 5px;
+}
