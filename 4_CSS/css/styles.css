@@ -36,3 +36,26 @@ h3{
     height: 50px;
     background-color: gray;
 }
+
+.com-padding{
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+}
+
+.sem-padding{
+    background-color: darkgray;
+    color:white;
+}
+
+.borda1{
+    border: 10px solid brown;
+    padding: 10px;
+
+}
+
+.borda2{
+    border: 50px dotted yellow;
+    padding: 50px;
+}
