@@ -25,3 +25,14 @@ h3{
     padding: 30px;
     background-size: cover;
 }
+
+.height-width{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+.height-width2{
+    height: 50px;
+    background-color: gray;
+}
