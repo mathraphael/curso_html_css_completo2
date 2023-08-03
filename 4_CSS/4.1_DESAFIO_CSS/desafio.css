@@ -1,0 +1,20 @@
+#box-model{
+    background-color: crimson;
+    margin: 15px;
+    padding: 15px;
+    border: 5px solid black;
+    outline: 5px solid black;
+   
+    
+
+}
+
+.text-desafio{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    box-shadow: black 5px;
+    justify-content: center;
+    text-align: center;
+    border: none;
+}
