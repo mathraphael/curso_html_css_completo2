@@ -103,3 +103,26 @@ h3{
 .caixa-baixa{
     text-transform: lowercase;
 }
+
+.serif{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.sans-serif{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.fantasy{
+    font-family: fantasy;
+
+}
+
+.cursive{
+    font-family: cursive;
+}
